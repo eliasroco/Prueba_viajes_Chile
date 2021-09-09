@@ -1,0 +1,91 @@
+body{
+    background-color:rgb(7, 7, 7);
+    margin: 0;
+    padding: 0;
+    font-family: "raleway"
+}
+
+.h1-principal {
+    color: transparent;
+    text-indent: -9999px;
+    width: 0px;
+    height: 0px;
+    margin: 0;
+}
+
+/* navbar*/
+
+header nav img{
+    max-width: 40px;
+    height: auto;
+    margin-right: 0.5rem
+  }
+
+/*quienes somos*/
+
+#QuienesSomos p{
+    font-family: "raleway";
+    font-weight: 300;
+}
+
+#QuienesSomos div.fondo{
+    background-color: #239DBF;
+    text-align: center;
+}
+
+#QuienesSomos div i{
+    font-size: 23px;
+}
+
+#QuienesSomos hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+/*destacados*/
+
+#Destacados h2{
+    font-family: "raleway";
+    font-weight: 500; 
+}
+
+#Destacados hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+.card-body-celeste {
+    background-color:#239DBF;
+    color: white;
+}
+
+img.card-img-top.acortar{
+    height: 168px;
+}
+
+/*contacto*/
+
+#Contacto h2{
+    font-family: "raleway";
+    font-weight: 500;
+}
+
+#Contacto hr.linea{
+    width: auto;
+    height: 1px;
+    background-color: #239DBF;
+}
+
+/*footer*/
+
+#Footer{
+    background-color:#239DBF;
+}
+
+#Footer a i{
+    font-size: 36px;
+    font-weight: 400;
+}
+
